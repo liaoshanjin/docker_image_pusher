@@ -1,7 +1,7 @@
+docker:20.10-dind
 laradock/workspace:latest-7.2
 laradock/php-fpm:latest-7.2
 php:7.2-alpine
 nginx:alpine
 mysql:5.7
 redislabs/rebloom:latest
-docker:20.10-dind

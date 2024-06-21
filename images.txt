@@ -4,4 +4,5 @@ laradock/php-fpm:latest-7.2
 php:7.2-alpine
 nginx:alpine
 mysql:5.7
-redislabs/rebloom:latest
+redislabs/rebloom:2.8.1
+gitlab/gitlab-ce:17.1.0-ce.0

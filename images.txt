@@ -6,3 +6,4 @@ nginx:alpine
 mysql:5.7
 redislabs/rebloom:2.8.1
 gitlab/gitlab-ce:17.1.0-ce.0
+redis:latest
